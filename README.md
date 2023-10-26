@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/1337-llama/PyRAT/assets/71475034/47178d1b-3e60-4f4b-a995-0d373e61fd02">
+</p>
+
 # Python Remote Access Tool
 A novel, lightweight remote access tool written in Python.
 
